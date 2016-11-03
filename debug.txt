@@ -1,0 +1,9 @@
+Config loaded
+Fonts loaded
+Player created
+Store loaded
+Sonia loaded
+Sound loaded
+MusicPlayer created
+Menu loaded
+FullScreen settings loaded

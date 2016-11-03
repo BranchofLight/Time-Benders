@@ -1,0 +1,2 @@
+Current Resolution Choice: 2
+Full Screen: true
